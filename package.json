@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/cnci-saltillo",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a cnci-saltillo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/cnci-saltillo.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://sitiosweb.mx/cnci-saltillo/"
+    },
+    "homepage": "https://sitiosweb.mx/cnci-saltillo/"
+}
